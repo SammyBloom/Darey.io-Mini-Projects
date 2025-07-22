@@ -22,4 +22,8 @@ If a member "_Tom_" makes changes to the home page file "_index.html_" to update
 The result is the web page below:
 ![Web Page](img/home.png "web page")
 
+GitHub repo dashboard
+![Github Dashboard](img/github_dashboard.png "Github dashboard")
+
 The github repo link is found [here](https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control).
+[https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control](https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control).
