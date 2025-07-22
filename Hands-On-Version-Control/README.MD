@@ -26,4 +26,4 @@ GitHub repo dashboard
 ![Github Dashboard](img/github_dashboard.png "Github dashboard")
 
 The github url of the repository used is found [here](https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control).
-[https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control](https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control).
+[https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control](https://github.com/SammyBloom/Darey.io-Mini-Projects/tree/main/Hands-On-Version-Control)
